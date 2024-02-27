@@ -9,9 +9,9 @@
         dihabiskan untuk sekolah,dan aku sangat menikmati saa-saat itu.Inilah sebagian kisah-kisahmu disekolah 
     </p>
     <hr> <!----menampilkan garis-->
-    <iframe width="30%" height="179" src="latihan_1_1.html"></iframe>
-    <iframe width="30%" height="179" src="latihan_1_2.html"frameborder="0"></iframe>
-    <iframe width="30%" height="179" src="latihan_1_3.html"scrolling="no"></iframe>
+    <iframe width="30%" height="179" src="latihan_html1"></iframe>
+    <iframe width="30%" height="179" src="latihan_html2"frameborder="0"></iframe>
+    <iframe width="30%" height="179" src="latihan_html3"scrolling="no"></iframe>
 <body>
     </html>
     
