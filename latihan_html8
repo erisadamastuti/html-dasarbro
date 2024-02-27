@@ -1,0 +1,70 @@
+<table border="1px" bgcolor="aqua" width="100%">
+<tr>
+        <td rowspan="5"> FOTO </td>
+        <td> NIM</td>
+        <td>:233307045</td>
+</tr>
+    <tr>
+        </td> Nama </td>
+        <td>:Erisa Damastuti</td>
+    </tr>
+    <tr>
+        <td>Alamat</td>
+        <td>:Sidorejo</td>
+    </tr>
+    <tr>
+        <td> TTL </td>
+        <td> : 13 september 2004</td>
+    </tr>
+    <tr>
+        <td> Kelas </td>
+        <td> :2B</td>
+    </tr>
+</table>
+<table border="1px" bgcolor="aqua" width="100%">
+    <tr>
+            <td rowspan="5"> FOTO </td>
+            <td> NIM</td>
+            <td>:233307048</td>
+    </tr>
+        <tr>
+            </td> Nama </td>
+            <td>:Fadhillah</td>
+        </tr>
+        <tr>
+            <td>Alamat</td>
+            <td>:Sukosari</td>
+        </tr>
+        <tr>
+            <td> TTL </td>
+            <td> : 7 Januari 2005</td>
+        </tr>
+        <tr>
+            <td> Kelas </td>
+            <td> :2B</td>
+        </tr>
+    </table>
+    <table border="1px" bgcolor="aqua" width="100%">
+        <tr>
+                <td rowspan="5"> FOTO </td>
+                <td> NIM</td>
+                <td>:2333032</td>
+        </tr>
+            <tr>
+                </td> Nama </td>
+                <td>:Amanda Rizky Yorina</td>
+            </tr>
+            <tr>
+                <td>Alamat</td>
+                <td>:Dungus</td>
+            </tr>
+            <tr>
+                <td> TTL </td>
+                <td> : 31 September</td>
+            </tr>
+            <tr>
+                <td> Kelas </td>
+                <td> :2B</td>
+            </tr>
+        </table>
+            
