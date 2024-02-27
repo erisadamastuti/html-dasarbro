@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<head>
+    <title>Halaman HTML saya</title>
+</head>
+<body>
+<h1>Kisah-kisah disekolah</h1>
+    <p>
+        Masa sekolah adalah masa yang menyenenagkan bagiku,Sebagian besar waktu hidupku sampai saat ini 
+        dihabiskan untuk sekolah,dan aku sangat menikmati saa-saat itu.Inilah sebagian kisah-kisahmu disekolah 
+    </p>
+    <hr> <!----menampilkan garis-->
+    <iframe width="30%" height="179" src="latihan_1_1.html"></iframe>
+    <iframe width="30%" height="179" src="latihan_1_2.html"frameborder="0"></iframe>
+    <iframe width="30%" height="179" src="latihan_1_3.html"scrolling="no"></iframe>
+<body>
+    </html>
+    
