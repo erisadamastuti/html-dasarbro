@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head> 
+    <title>HTML</title>
+    <link rel="icon" type="img/png" href="gambar/icon.png" sizes="16x16" />
+    <style>
+        table {
+            width: 100%; 
+            margin: 0 auto; 
+            border-collapse: collapse;
+            background-color: white;
+            caption {
+            text-align: center;
+            margin-bottom: 0 auto;
+            border: 1px solid black; 
+            padding: 0 auto; 
+        }
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }    
+        .photo-cell {
+            width: 250px; 
+            text-align: center;
+            vertical-align: middle;
+        }
+        .photo {
+            max-width: 100%; 
+            max-height: 130px; 
+            height: auto;
+        }
+    </style>
+</head>
+<body> 
+    <table>
+        <tr>
+        <caption ><h3><strong>biodata</strong></h3></caption>
+        </tr>
+        <tr>
+            <td class="photo-cell" rowspan="5"> 
+                <img class="photo" src="gambar/Foto1.jpeg" alt="Foto1">
+            </td>
+            <td> NIM </td>
+            <td> : 233307045 </td>
+        </tr>
+        <tr>
+            <td> Nama </td>
+            <td> : ERISA DAMASTUTI</td>
+        </tr>
+        <tr>
+            <td> Alamat</td>
+            <td> :SIDOREJO </td>
+        </tr>
+        <tr>
+            <td> TTL </td>
+            <td> :13 SEPTEMBER 2004 </td>
+        </tr>
+        <tr>
+            <td> Kelas </td>
+            <td> : 2B</td>
+        </tr>
+        <tr>
+            <td class="photo-cell" rowspan="5"> 
+                <img class="photo" src=" " alt="Foto2">
+            </td>
+            <td> 233307032 </td>
+            <td> : </td>
+        </tr>
+        <tr>
+            <td> Nama </td>
+            <td> :Amanda Rizky Yorina </td>
+        </tr>
+        <tr>
+            <td> Alamat</td>
+            <td> :Dungus </td>
+        </tr>
+        <tr>
+            <td> TTL </td>
+            <td> :30 September 2004  </td>
+        </tr>
+        <tr>
+            <td> Kelas </td>
+            <td> :2B </td>
+        </tr>
+        <tr>
+            <td class="photo-cell" rowspan="5"> 
+                <img class="photo" src="" alt="Foto3">
+            </td>
+            <td> NIM</td>
+            <td> :233307048 </td>
+        </tr>
+        <tr>
+            <td> Nama </td>
+            <td> :Fadillah </td>
+        </tr>
+        <tr>
+            <td> Alamat</td>
+            <td> :Sukosari</td>
+        </tr>
+        <tr>
+            <td> TTL </td>
+            <td> :7 Januari 2005 </td>
+        </tr>
+        <tr>
+            <td> Kelas </td>
+            <td> : </td>
+        </tr>
+    </table>
+</body>
+</html>
