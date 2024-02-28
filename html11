@@ -1,0 +1,68 @@
+[22.58, 27/2/2024] erisa: !DOCTYPE html>
+<head>
+    <title>Halaman HTML saya</title>
+</head>
+<body>
+<h1>Kisah-kisah disekolah</h1>
+    <p>
+        Masa sekolah adalah masa yang menyenenagkan bagiku,Sebagian besar waktu hidupku sampai saat ini 
+        dihabiskan untuk sekolah,dan aku sangat menikmati saa-saat itu.Inilah sebagian kisah-kisahmu disekolah 
+    </p>
+    <hr> <!----menampilkan garis-->
+    <iframe width="30%" height="179" src="latihan_html1"></iframe>
+    <iframe width="30%" height="179" src="latihan_html2"frameborder="0"></iframe>
+    <iframe width="30%" height="179" src="latihan_html3"scrolling="no"></iframe>
+<body>
+    </html>
+[22.59, 27/2/2024] erisa: Halaman HTML saya". Terdapat elemen-elemen seperti <h1> untuk judul besar, <p> untuk paragraf, dan <hr> untuk garis pemisah. Selain itu, terdapat tiga elemen <iframe> yang menampilkan konten dari tiga sumber yang berbeda ("latihan_html1", "latihan_html2", dan "latihan_html3") dengan lebar 30% dan tinggi 179 piksel. Namun, perlu diperhatikan bahwa tag penutup <html> tidak ada dalam codingan ini dan tag <html> dan <body> sebaiknya ditutup dengan benar (</html> dan </body>).
+[23.02, 27/2/2024] erisa: Sebuh ikon (icon.png)disertakan dengan elemen link untuk mewakili situs di tab browser
+<style>untuk mengontrol tampilan halaman termasuk font,warna latar,border,dan tata letak elemen seperti header,table,dan lainnya.
+Terdapat sebuah “div”dengan kelas “letter”yang menyimpan seluruh konten dokumen termasuk header,table,dan footer.
+[23.08, 27/2/2024] erisa: YPE html>
+<html>
+<head>
+    <title>Contoh Halaman dengan Tabel dan Iframe</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        td {
+            vertical-align: top;
+        }
+        iframe {
+            width: 100%;
+            height: 500px; 
+        }
+    </style>
+</head>
+<body>
+
+<table>
+    <tr>
+        <!-- Kolom kiri untuk link -->
+        <td style="width: 20%;">
+            <ul>
+                <li><a href="latihan_html1" target="iframe_a">latihan1</a></li>
+                <li><a href="latihan_html2" target="iframe_a">Latihan2</a></li>
+                <li><a href="latihan_html3" target="iframe_a">Latihan3</a></li>
+                <li><a href="latihan_html4" target="iframe_a">Latihan4</a></li>
+                <li><a href="latihan_html5" target="iframe_a">Latihan5</a></li>
+                <li><a href="latihan_html6" target="iframe_a">Latihan6</a></li>
+                <li><a href="latihan_html7" target="iframe_a">Latihan7</a></li>
+                <li><a href="latihan_html8" target="iframe_a">Latihan8</a></li>
+                <li><a href="latihan9" target="iframe_a">Latihan9</a></li>
+                <li><a href="latihan10" target="iframe_a">Latihan10</a></li>
+                <li><a href="latihan11" target="iframe_a">Latihan11</a></li>
+                <!-- Tambahkan link sesuai kebutuhan -->
+            </ul>
+        </td>
+        <!-- Kolom kanan untuk iframe -->
+        <td style="width: 70%;">
+            <iframe name="iframe_a"></iframe>
+        </td>
+    </tr>
+</table>
+
+</body>
+</html>
