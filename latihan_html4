@@ -20,5 +20,13 @@
         </ul>
     </li>
 </li>Jenis Makanan :</li>
+    <ul>
+            <li>Ayam Geprek<li>
+            <li>Nasi Goreng<li>
+            </ul>
+        </li>
 <li>Gender :</li>
+        <ul>
+            <li>Laki laki <li>
+            <li>Perempuan <li>
 </ol>
