@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="Erisa Damastuti">
-    <meta name="nim" content="233307053">
+    <meta name="nim" content="233307045">
 
     <style>
         * {
@@ -69,17 +69,18 @@
     <section>
         <nav>
             <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="gambar1">Gambar</a></li> 
+                <li><a href="index.html/">Home</a></li>
+                <li><a href="html_advance/html_advance/gambar/">Gambar</a></li> 
                 <li><a href="event.html">Event</a></li>
-                <li><a href="audio.html">Audio</a></li>
-                <li><a href="">Video</a></li>
+                <li><a href="html_advance/html_advance/gambar/audio/suara.mp3">Audio</a></li>
+                <li><a href="html_advance/html_advance/gambar/video/">Video</a></li>
                 <li><a href="svg.html">SVG</a></li>
                 <li><a href="canvas.html">Canvas</a></li>
             </ul>
         </nav>
         <article>
-            <h1>Judul Artikel</h1>
+            <h1>Hidup Pilihan</h1>
+            <p> hidup ini adalah pilihan maka pilihlah yang terbaik untuk hidupmu.
         </article>
     </section>
 
